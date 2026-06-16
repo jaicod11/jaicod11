@@ -1,13 +1,12 @@
 # 💫 Hi 👋, I'm Jaideep Kundu
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+### Aspiring AI/ML Engineer | Python Developer
 
-Email Me 👉 ✉️ **jaideepkundu92@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+I'm a passionate learner exploring the fields of Artificial Intelligence, Machine Learning, and Data Science.
+Currently, I'm focused on building practical projects with Python, Deep Learning, Large Language Models (LLMs), and RAG systems.
 
-- 🔭 **I’m currently working on:** ApexMatch
-- 🌱 **I’m currently learning:** Enter your tech here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+💡 I enjoy solving problems, learning new technologies, and collaborating on projects that have real-world applications.
+
+🎯 My goal is to grow into an AI Engineer by contributing to impactful projects and open-source communities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaideep-kundu-53626b280) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaideepkundu92@gmail.com) 
