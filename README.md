@@ -24,16 +24,16 @@ Email Me 👉 ✉️ **jaideepkundu92@gmail.com** For Collaboration/Project or A
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaicod11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jaicod11&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaicod11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=jaicod11&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=jaicod11&icon=0&color=2)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
