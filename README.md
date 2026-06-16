@@ -1,4 +1,4 @@
-## Hi there 👋
+## 💫 Hi 👋, I'm Jaideep
 
 <!--
 **jaicod11/jaicod11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
