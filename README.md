@@ -2,11 +2,10 @@
 ### Backend & Systems — CS undergrad at VIT-AP, 2027
 
 I build things that have to keep running: real-time collaborative editing (Operational Transformation from scratch), agentic RAG pipelines, and the data infrastructure behind a Nifty 100 financial platform.
+
 Currently writing a C++ limit-order-book matching engine and going deeper on distributed systems.
 
 💡 I enjoy solving problems, learning new technologies, and collaborating on projects that have real-world applications.
-
-🎯 My goal is to grow into an AI Engineer by contributing to impactful projects and open-source communities.
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f?style=flat&logo=vercel&logoColor=22d3ee)](https://jaideepkundu.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaideep-kundu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaideepkundu92@gmail.com)
