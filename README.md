@@ -1,8 +1,8 @@
 # 💫 Hi 👋, I'm Jaideep Kundu
-### Aspiring AI/ML Engineer | Python Developer
+### Backend & Systems — CS undergrad at VIT-AP, 2027
 
-I'm a passionate learner exploring the fields of Artificial Intelligence, Machine Learning, and Data Science.
-Currently, I'm focused on building practical projects with Python, Deep Learning, Large Language Models (LLMs), and RAG systems.
+I build things that have to keep running: real-time collaborative editing (Operational Transformation from scratch), agentic RAG pipelines, and the data infrastructure behind a Nifty 100 financial platform.
+Currently writing a C++ limit-order-book matching engine and going deeper on distributed systems.
 
 💡 I enjoy solving problems, learning new technologies, and collaborating on projects that have real-world applications.
 
