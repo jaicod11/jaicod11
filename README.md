@@ -120,17 +120,13 @@ struct Jaideep {
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=jaicod11&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaicod11&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaicod11&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=jupyter%20notebook,css,html" alt="Top languages"/>
 
 <br/>
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=jaicod11&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </a>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaicod11&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Contribution graph"/>
 
 </div>
 
